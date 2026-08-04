@@ -24,12 +24,15 @@ Think Twitch, but with everything built in.
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
+|| Project | Description | Tech |
 |---|---|---|
-| ViCi | All-in-one streaming platform with creator marketplace | Next.js, Node.js, PostgreSQL |
-| Restaurant Expense Manager | Cross-platform expense tracking app | .NET MAUI, SQLite |
-| Event Plan Manager | Event management system | Java |
-| ML Classification | KNN model with feature engineering | Python, Scikit-learn |
+| ViCi | Full-stack live streaming platform with creator marketplace | React, Node.js, PostgreSQL |
+| FraudShield | ML fraud detection — 93.5% accuracy on 339K transactions | Python, Scikit-learn |
+| SpiceFlow | Role-based inventory and order management web app | C#, ASP.NET Core MVC |
+| EnergyTrace | US emissions and energy consumption statistical analysis | R, ggplot2 |
+| WebTrafficInsights | Global web traffic engagement analysis | R, Statistical Testing |
+| DriveWellApp | Cross-platform driving safety and vehicle tracking app | C#, .NET MAUI |
+| RestaurantExpenseManager | Cross-platform expense management app | C#, .NET MAUI |
 
 ---
 
