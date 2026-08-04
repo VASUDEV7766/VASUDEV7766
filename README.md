@@ -24,7 +24,7 @@ Think Twitch, but with everything built in.
 
 ## 🚀 Projects
 
-|| Project | Description | Tech |
+| Project | Description | Tech |
 |---|---|---|
 | ViCi | Full-stack live streaming platform with creator marketplace | React, Node.js, PostgreSQL |
 | FraudShield | ML fraud detection — 93.5% accuracy on 339K transactions | Python, Scikit-learn |
@@ -33,8 +33,6 @@ Think Twitch, but with everything built in.
 | WebTrafficInsights | Global web traffic engagement analysis | R, Statistical Testing |
 | DriveWellApp | Cross-platform driving safety and vehicle tracking app | C#, .NET MAUI |
 | RestaurantExpenseManager | Cross-platform expense management app | C#, .NET MAUI |
-
----
 
 ## 📫 Let's Connect
 
